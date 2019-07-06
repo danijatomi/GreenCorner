@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23589127174",
+    "firebase_url": "https://greencorner-andychylde.firebaseio.com",
+    "project_id": "greencorner-andychylde",
+    "storage_bucket": "greencorner-andychylde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23589127174:android:f9ff1e44dd3c54f4",
+        "android_client_info": {
+          "package_name": "com.andychylde.greencorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23589127174-0gvejg2tk7qtk5amb18sjr7n90db1hkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andychylde.greencorner",
+            "certificate_hash": "24f8aa784f2abba4d7cdbea810d726f8aba2f08a"
+          }
+        },
+        {
+          "client_id": "23589127174-ch828kf6fp5i0bgmj5rr408uupv3be3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0LR5_eRB2EJCRDHM7v9XrWeKucTxgAgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23589127174-ch828kf6fp5i0bgmj5rr408uupv3be3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
