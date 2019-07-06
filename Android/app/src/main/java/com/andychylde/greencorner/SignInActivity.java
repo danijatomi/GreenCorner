@@ -86,10 +86,6 @@ public class SignInActivity extends AppCompatActivity {
     {
         switch(v.getId())
         {
-            case R.id.signupText:
-                Intent myIntent = new Intent(SignInActivity.this, SignUpActivity.class);
-                SignInActivity.this.startActivity(myIntent);
-                break;
             case R.id.signinButton:
                 progressDialog = new ProgressDialog(this);
                 progressDialog.setMessage("Signing in");
